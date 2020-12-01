@@ -4,9 +4,7 @@ sections:
   - type: hero_section
     title: Tritel
     subtitle: Professional Computer and Information Technology Services
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: Magic happens when everything works. Call me when the magic breaks
     actions:
       - label: Try Free
         url: /pricing
