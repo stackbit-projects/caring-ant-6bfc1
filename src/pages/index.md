@@ -4,7 +4,20 @@ sections:
   - type: hero_section
     title: Tritel
     subtitle: Professional Computer and Information Technology Services
-    content: Magic happens when everything works. Call me when the magic breaks
+    content: >-
+      Magic happens when everything works. Call me when the magic breaks.
+
+
+      * Contact Me: Michael Treitel
+
+      * Phone 512-647-9233
+
+      * Email   michaelt@tritel.io
+
+      * Business Hours - Monday through Friday, Central Time Zone (UTC-6) 12:00
+      pm to 5:00pm and by appointment.
+
+      * Location: 2024 Goodrich, 108, Austin, Texas 78704
     actions:
       - label: Try Free
         url: /pricing
