@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Tritel
-    subtitle: Prof
+    subtitle: Professi
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
