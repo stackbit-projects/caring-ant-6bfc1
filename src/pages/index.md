@@ -19,7 +19,7 @@ sections:
 
       * Location: 2024 Goodrich, 108, Austin, Texas 78704
     actions:
-      - label: Try Free
+      - label: Contact
         url: /pricing
         style: primary
       - label: Learn More
